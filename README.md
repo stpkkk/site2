@@ -1,2 +1,2 @@
-# site2
+# site2.github.io
 bla bla bla
